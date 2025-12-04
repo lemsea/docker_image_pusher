@@ -1,1 +1,1 @@
-emby:last
+emby/embyserver:latest
