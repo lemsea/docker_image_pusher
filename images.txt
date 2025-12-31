@@ -1,1 +1,1 @@
-emby/embyserver:latest
+openresty/openresty:1.27.1.2-0-focal
